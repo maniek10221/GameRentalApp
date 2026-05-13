@@ -1,0 +1,7 @@
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.csproj.AssemblyReference.cache
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.csproj.CoreCompileInputs.cache
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\bin\Debug\GameRentalApp.exe.config
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\bin\Debug\GameRentalApp.exe
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\bin\Debug\GameRentalApp.pdb
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.exe
+C:\Users\manie\source\repos\GameRentalApp\GameRentalApp\obj\Debug\GameRentalApp.pdb
